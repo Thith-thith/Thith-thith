@@ -86,7 +86,6 @@
 
 <table><tr><td valign="top" width="50%">
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thith-thith&hide_border=true&layout=compact" align="right" /></div>  
-</td><td valign="top" width="50%">
 <br/>  
 
 
