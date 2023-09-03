@@ -81,7 +81,6 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=Thith-thith&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thith-thith&hide_border=true&layout=compact" align="right" /></div>  
