@@ -1,25 +1,9 @@
-<div align="center">
-<img src="[https://1.bp.blogspot.com/--3VJQkff7Sg/X8hxAiJA7lI/AAAAAAAAIv4/O3PXFJqe0jUbZo4xA0cvRHdXpBl0rxASQCLcBGAsYHQ/w680/Kbach%2BKhmer%2Bletter%2Bby%2BPol%2BMakara-01.jpg](https://thith.vercel.app/me2.png)" align="center" style="width: 100%" />
-</div>  
+<img src="https://yt3.googleusercontent.com/8xUDJesxXjClFba46sJIuLz85D5iTbYuRpHA4y7L4VRiIi6U3QddVtBCm88IwqUUCzSjncQ6=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="GitHub Banner" width="100%" />
+
+# Hello World!, I'm Thith, a Cambodian Web Developer 👋🏼:
+🛜 currently working at [KOOMPI](https://github.com/koompi)<br>👨🏼‍🎓 studying technology based computer science at Royal University of Phnon Penh<br>👨🏼‍💻 working as a web developer since 2018 <br>
+
   
-
-### <div align="center">I'm Thith, a full-time full-stack Web developer 🚀</div>  
-  
-
-- 🔭 I’m currently working at [Koompi](https://github.com/koompi)  
-  
-
-- 🌱 I’m currently learning Rust programing and Solidjs  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -87,3 +71,8 @@
 <br/>  
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
